@@ -1414,7 +1414,7 @@ div.notice_type3 div.content div.wrap_notice {
 						서류번호</td>
 					<td id="quarterBudgetInfo"
 						style="background: rgb(255, 255, 255); padding: 5px; border: 1px solid black; border-image: none; height: 10px; text-align: left; color: rgb(0, 0, 0); font-size: 12px; font-weight: normal; vertical-align: middle;">
-						${dto.file_randomname}"</td>
+						${dto.file_randomname}</td>
 				</tr>
 				<tr>
 					<td
